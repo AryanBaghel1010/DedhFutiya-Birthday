@@ -1,5 +1,5 @@
-function mobile()
-{let highestZ = 1;
+function mobile(){
+let highestZ = 1;
 
 class Paper {
   holdingPaper = false;
